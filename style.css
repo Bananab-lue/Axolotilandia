@@ -1,0 +1,78 @@
+/* Aquí va el comentario */
+
+/*
+Selector (de HTML) {
+    Propiedad (QUÉ?): valor (CÓMO?);
+}
+
+CSS en línea usa el atributo style dentro de una línea de cídigo
+    ej.   <title style="color: rgb(184, 70, 89)"> Axolotilandia </title>
+
+CSS elemeto <style> usa elemento <style></style> para colocar entro las características de stilo 
+    ej. <head>
+            <Style>
+                h2 {
+                    color: blue;
+                }
+            </style>
+        </head>
+
+*/
+
+body{
+    background-color: #523321;
+    color: #c5b19d;
+    font-family:'Righteous', cursive;
+    font-size: 15px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #9c6453;
+}
+
+.titulo{
+    color: #111111;
+    text-align: center;
+    font-family: 'Moirai One', cursive;
+    font-size:60px;
+}
+
+img{
+    width: 30%;
+    margin-left: 30%;
+    border-radius: 10%;
+}
+
+h1{
+    color: #edbbaa;
+}
+
+h2{
+    color:#edbbaa; 
+}
+
+h3{
+    color: #edbbaa; 
+}
+
+li{
+    color:#c5b19d;
+}
+
+a{
+    color: #E8E9D9;
+    text-decoration: dotted;
+}
+
+p{
+    color: #c5b19d;
+}
+
+.ajo2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
