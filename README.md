@@ -9,4 +9,5 @@ You can visit the website with the following link: **https://axolotilandia-tp.ne
 
 ### Screenshot of how the page looks 
 
-![This is how the landing page looks](images/Como se ve.png)
+![This is how the landing page looks](Images/Como se ve.png)
+
