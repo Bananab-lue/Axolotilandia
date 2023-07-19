@@ -9,5 +9,6 @@ You can visit the website with the following link: **https://axolotilandia-tp.ne
 
 ### Screenshot of how the page looks 
 
-![This is how the landing page looks](Images/Como se ve.png)
+This is how the landing page looks 
+![Como se ve](https://github.com/Bananab-lue/Axolotilandia/assets/139791048/7d3f280d-4adc-42f0-b7ab-aec9f7e9fdfd)
 
